@@ -1,0 +1,41 @@
+scheme_name,category,return_1yr_pct,std_dev_ann_pct,sharpe_ratio,risk_grade,risk_return_group
+SBI Bluechip Fund - Regular Plan - Growth,Large Cap,12.42,14.0,0.88,Moderate,Lower Return - Higher Risk
+SBI Bluechip Fund - Direct Plan - Growth,Large Cap,15.25,14.0,0.81,Moderate,Higher Return - Higher Risk
+SBI Small Cap Fund - Regular Plan - Growth,Small Cap,24.56,25.0,0.94,Very High,Higher Return - Higher Risk
+SBI Small Cap Fund - Direct Plan - Growth,Small Cap,20.59,25.0,0.93,Very High,Higher Return - Higher Risk
+SBI Magnum Gilt Fund - Regular Plan - Growth,Gilt,5.34,4.0,1.52,Low,Lower Return - Lower Risk
+HDFC Top 100 Fund - Regular Plan - Growth,Large Cap,10.94,14.0,1.06,Moderate,Lower Return - Higher Risk
+HDFC Top 100 Fund - Direct Plan - Growth,Large Cap,11.48,14.0,0.96,Moderate,Lower Return - Higher Risk
+HDFC Mid-Cap Opportunities Fund - Regular - Growth,Mid Cap,15.43,19.0,0.87,High,Higher Return - Higher Risk
+HDFC Mid-Cap Opportunities Fund - Direct - Growth,Mid Cap,19.98,19.0,0.8,High,Higher Return - Higher Risk
+HDFC Short Term Debt Fund - Regular - Growth,Short Duration,6.83,4.0,1.84,Low,Lower Return - Lower Risk
+ICICI Pru Bluechip Fund - Regular - Growth,Large Cap,15.63,14.0,0.82,Moderate,Higher Return - Higher Risk
+ICICI Pru Bluechip Fund - Direct - Growth,Large Cap,14.12,14.0,1.03,Moderate,Lower Return - Higher Risk
+ICICI Pru Midcap Fund - Regular - Growth,Mid Cap,14.02,19.0,0.95,High,Lower Return - Higher Risk
+ICICI Pru Value Discovery Fund - Regular - Growth,Value,16.67,15.0,0.98,Moderately High,Higher Return - Higher Risk
+ICICI Pru Liquid Fund - Regular - Growth,Liquid,8.89,0.5,7.68,Low,Lower Return - Lower Risk
+Nippon India Large Cap Fund - Regular - Growth,Large Cap,15.84,14.0,1.0,Moderate,Higher Return - Higher Risk
+Nippon India Large Cap Fund - Direct - Growth,Large Cap,14.42,14.0,0.88,Moderate,Lower Return - Higher Risk
+Nippon India Small Cap Fund - Regular - Growth,Small Cap,21.3,25.0,0.81,Very High,Higher Return - Higher Risk
+Nippon India ETF Nifty 50 BeES,Index/ETF,10.14,13.0,0.91,Moderate,Lower Return - Lower Risk
+Nippon India Gilt Securities Fund - Regular - Growth,Gilt,6.19,4.0,1.33,Low,Lower Return - Lower Risk
+Kotak Bluechip Fund - Regular - Growth,Large Cap,14.37,14.0,0.87,Moderate,Lower Return - Higher Risk
+Kotak Emerging Equity Fund - Regular - Growth,Mid Cap,17.12,19.0,0.96,High,Higher Return - Higher Risk
+Kotak Flexicap Fund - Regular - Growth,Flexi Cap,15.74,16.0,0.98,Moderately High,Higher Return - Higher Risk
+Kotak Liquid Fund - Regular - Growth,Liquid,4.26,0.5,6.18,Low,Lower Return - Lower Risk
+Axis Bluechip Fund - Regular - Growth,Large Cap,11.82,14.0,0.85,Moderate,Lower Return - Higher Risk
+Axis Bluechip Fund - Direct - Growth,Large Cap,13.95,14.0,0.87,Moderate,Lower Return - Higher Risk
+Axis Midcap Fund - Regular - Growth,Mid Cap,14.88,19.0,0.8,High,Higher Return - Higher Risk
+Axis Small Cap Fund - Regular - Growth,Small Cap,21.97,25.0,0.84,Very High,Higher Return - Higher Risk
+ABSL Frontline Equity Fund - Regular - Growth,Large Cap,14.82,14.0,0.98,Moderate,Higher Return - Higher Risk
+ABSL Small Cap Fund - Regular - Growth,Small Cap,24.93,25.0,0.9,Very High,Higher Return - Higher Risk
+ABSL Liquid Fund - Regular - Growth,Liquid,6.18,0.5,5.14,Low,Lower Return - Lower Risk
+UTI Nifty 50 Index Fund - Regular - Growth,Index,13.76,13.0,0.93,Moderate,Lower Return - Lower Risk
+UTI Mid Cap Fund - Regular - Growth,Mid Cap,16.3,19.0,0.82,High,Higher Return - Higher Risk
+UTI Flexi Cap Fund - Regular - Growth,Flexi Cap,17.43,16.0,0.96,Moderately High,Higher Return - Higher Risk
+Mirae Asset Large Cap Fund - Regular - Growth,Large Cap,15.12,14.0,1.06,Moderate,Higher Return - Higher Risk
+Mirae Asset Emerging Bluechip Fund - Regular - Growth,Large & Mid Cap,14.91,16.0,0.91,Moderately High,Higher Return - Higher Risk
+Mirae Asset Tax Saver Fund - Regular - Growth,ELSS,11.16,17.0,0.8,High,Lower Return - Higher Risk
+DSP Top 100 Equity Fund - Regular - Growth,Large Cap,11.96,14.0,0.92,Moderate,Lower Return - Higher Risk
+DSP Midcap Fund - Regular - Growth,Mid Cap,14.12,19.0,0.9,High,Lower Return - Higher Risk
+DSP Small Cap Fund - Regular - Growth,Small Cap,20.2,25.0,0.8,Very High,Higher Return - Higher Risk
